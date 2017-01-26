@@ -27,3 +27,5 @@
 		-6.Gefa skýrslu til bæði vinnuveitenda og tölvueiganda
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 		-opinn spurning er spurning þegar þú svarar bara já/nei en lokuð er þá svarar hann/hún með setningu
+8. Hvað eru jaðartæki?
+		-Tæki sem eru fyrir utan tölvuna t.d lyklaborð og Hátalarar.
