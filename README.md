@@ -6,3 +6,5 @@
 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 		-ROM stendur fyrir Read-Only Memory
 		-ROM er notað til að "permenantly" geyma dót í tölvunni
+3. Hvað er fyrirbyggjandi viðhald? 
+		-það er til að passa upp á rafmagns tækið bilar ekki
