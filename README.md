@@ -29,3 +29,5 @@
 		-opinn spurning er spurning þegar þú svarar bara já/nei en lokuð er þá svarar hann/hún með setningu
 8. Hvað eru jaðartæki?
 		-Tæki sem eru fyrir utan tölvuna t.d lyklaborð og Hátalarar.
+9. Nefndu þrjú dæmi um inntakstæki.
+		-Vinnsluminni, Örgjarvi , Skjákort.
